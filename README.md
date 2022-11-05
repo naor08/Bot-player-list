@@ -1,6 +1,6 @@
-//NeXus Ⓒ
+# NeXus Ⓒ
 
-# discord-fivem-browser
+### discord-fivem-browser
 
 A FiveM helper bot for Discord. Shows player count in the channel title and delivers a list of players when requested.
 
@@ -33,4 +33,4 @@ Feel free to add issues or better yet, do pull requests!
 
 The bot is developed and tested on `Node.js v10.4.1`. 
 
-//NeXus Ⓒ
+# NeXus Ⓒ
